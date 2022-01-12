@@ -1,3 +1,5 @@
+# THIS WILL WORK WITH WINDOWS BUT ATM ITS ONLY WORKING WITH LINUX
+
 # always-fill-reqs-python3
 Always fill your package requirements without the user having to do anything! Simple and easy!
 
