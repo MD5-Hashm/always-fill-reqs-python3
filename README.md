@@ -4,8 +4,8 @@
 Always fill your package requirements without the user having to do anything! Simple and easy!
 
 # Supported platforms
-Everyone! (With python3)
-If python3 runs on the system it works!
+
+As far as I've tested this works on every system running python3 EXECPT Windows Subsystem for Linux (WSL)
 
 # Usage
 View /tests/expariment1 for an example or follow this:
