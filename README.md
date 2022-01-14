@@ -3,7 +3,9 @@
 # always-fill-reqs-python3
 Always fill your package requirements without the user having to do anything! Simple and easy!
 
-# Disclaimer: This version has not been well tested.
+# Supported platforms
+Everyone! (With python3)
+If python3 runs on the system it works!
 
 # Usage
 View /tests/expariment1 for an example or follow this:
