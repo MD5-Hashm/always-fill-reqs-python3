@@ -1,11 +1,11 @@
-# YAY WINDOWS WORKS NOW!
+# WSL Should now work
 
 # always-fill-reqs-python3
 Always fill your package requirements without the user having to do anything! Simple and easy!
 
 # Supported platforms
 
-As far as I've tested this works on every system running python3 EXECPT Windows Subsystem for Linux (WSL)
+As far as I've tested this works on every system running python3
 
 # Usage
 View /tests/expariment1 for an example or follow this:
