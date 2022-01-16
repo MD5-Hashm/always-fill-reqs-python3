@@ -10,7 +10,7 @@ As far as I've tested this works on every system running python3
 # Usage
 View /tests/expariment1 for an example or follow this:
 
-Include package.py in your main files directory
+Include packages.py in your main files directory
 
 Then import packages.py in your main file:
 
