@@ -24,4 +24,4 @@ Then include this one liner to install and import all the required packages:
 
 ```exec(pkg.import_packages(packages))```
 
-Your ide will probably complain that the packages arent imported (even though they are) so feel free to import them while writing your code.
+Your ide will probably complain that the packages arent imported (even though they are) so feel free to import them the normal way while writing your code.
