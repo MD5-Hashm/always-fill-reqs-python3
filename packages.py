@@ -1,9 +1,8 @@
 """
 The author of this code is: Hashm. A
 Github: MD5-Hashm
-Discord: MD5 Hash(m)#2779
 This code is licenced under the GNU Affero General Public License version 3.0
-For more information about this license and its limitations, see: https://www.gnu.org/licenses/agpl-3.0.html
+For more information about this license and its conditions, see: https://www.gnu.org/licenses/agpl-3.0.html
 """
 import sys
 import subprocess
